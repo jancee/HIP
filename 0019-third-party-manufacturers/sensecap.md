@@ -1,6 +1,6 @@
 # Seeed Studio
 
-### Application to become an approved third party manufacturer as per HIP19
+### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
 
